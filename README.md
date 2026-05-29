@@ -23,6 +23,7 @@ Predict the hottest (Dashu) and coldest (Dahan) periods in Beijing (2026) by com
 - `MLE.py` – main Python script for data processing, MLE/MAP estimation, and visualization.
 - `beijing_weather_30yr.csv` – historical daily temperature data (not included, add your own).
 - `Report_MLE_MAP(1).docx` – full project report.
+- `beijing_weather_30yr.csv`-Data used
 
 ## Usage
 
